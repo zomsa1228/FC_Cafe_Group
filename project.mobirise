@@ -746,8 +746,9 @@
     },
     "page1.html": {
       "settings": {
-        "title": "Page 1",
-        "order": 1
+        "title": "FCの歴史",
+        "order": 1,
+        "meta_descr": "FCの歴史を記載しています"
       },
       "components": [
         {
